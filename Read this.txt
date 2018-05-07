@@ -1,0 +1,12 @@
+Admin:
+Username: admin
+Password: admin
+
+User/Customer:
+Username: user
+Password: user
+
+Supplier:
+Username: supplier
+Password: supplier
+
